@@ -95,17 +95,17 @@ The dashboard can be used to identify:
 * Differences between sales and profit
 * The relationship between discounts and profitability
 
----
+
 
 ## 🖥️ Dashboard Preview
 
 Add your Power BI dashboard screenshot here:
 
-```markdown
+
 ![Retail Sales & Profit Dashboard](./Dashboard.png)
 ```
 
----
+
 
 ## 🎥 Project Demo
 
