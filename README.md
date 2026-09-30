@@ -102,7 +102,7 @@ The dashboard can be used to identify:
 Add your Power BI dashboard screenshot here:
 
 ```markdown
-![Retail Sales & Profit Dashboard](Dashboard.png)
+![Retail Sales & Profit Dashboard](./Dashboard.png)
 ```
 
 ---
